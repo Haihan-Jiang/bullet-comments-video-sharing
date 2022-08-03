@@ -1,0 +1,4 @@
+com\imooc\bilibili\api\support\UserSupport.class
+com\imooc\ImoocBilibiliApp.class
+com\imooc\bilibili\api\DemoApi.class
+com\imooc\bilibili\api\RestfulApi.class
